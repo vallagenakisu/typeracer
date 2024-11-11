@@ -120,3 +120,4 @@ document.addEventListener("keydown", function (event) {
     milSecond.innerHTML = " : 00";
   }
 });
+
